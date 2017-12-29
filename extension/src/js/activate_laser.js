@@ -1,4 +1,4 @@
-var socket = io("http://192.168.1.138:3000");
+var socket = io("http://localhost:3000");
 var point = document.createElement('DIV');
 
 var id;
